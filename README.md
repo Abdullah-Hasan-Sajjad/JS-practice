@@ -1,1 +1,1 @@
-# assignment-03
+## Practice JavaScript problems
